@@ -1,0 +1,74 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 8 0 R /MediaBox [ 0 0 612 792 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260327223818+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260327223818+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 734
+>>
+stream
+Gat=jbAs(+'Sc@2MR/5iRCYopN42O1<O6@+Zgn<Q^hQ,T-'=/D^.3^;VT$\[_tYtgs6'E(/i%t`0/C2,*PghX5(+_B.-*5s[UP>JKA1eDHU4MVf,:B"pFra=_jYHYpbVK86rV/gPbC>t-UXjHM,u7*GW2g6H*c\q@k3Ll>&!cJbs=oGFtJJr<JmN)4'maFIMr^Njc+"ZhXG=%ImO&72<.]$DC23,gK.W`Zb8QYs%'G;Psf/1!3Lakl`GTTSGdq=$1gHf(FD%V:$.h/?dt?$"eH*eCpKI*8X?s<F*g&g+E@[PjA!!_eP1?f4e%]K!96L8]HJ`IHnXP*lo=-Y_a,.jAE*hsZV]u;@t!b#qg%K<>`8Fa6DF4WYX6GFLY3L?4cYb]El9#Z;=u])]0]&H0.>bO<R$Lh'^UBC1rA7Mk_e!WT4LTg:_r2%8c2:HbMkSVTZ'i,*l2g]Wl`&_0YBPp$0!M#+Rp#%Wg==Qap,<o1sR@Qg:D3,=(7O*;t`Rjr;BCQqOM2(,NhOS]X$C%Cea)EV8:^?)(q-<AUB7>>=tjuou+7R8h:JM10"!TD<kbD_3NuI2j7u!N>n(a-48FF%=!En:>)mb7<ds"j6]k_#7l=1jI&sLM>13FaAa4)>jkqJA*Z06X7>t5B:(FmHmj4Dd%hS9ZpW:Wp25l`eMCZR=W%HDmL/qWJZ888((!/H4;2F,%7ChgFJmkjop?NBETk[I-Nbq!!6?HS\,~>endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000582 00000 n 
+0000000862 00000 n 
+0000000921 00000 n 
+trailer
+<<
+/ID 
+[<e4a07b09d98c1b569446a68870962ebd><e4a07b09d98c1b569446a68870962ebd>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
+startxref
+1745
+%%EOF
