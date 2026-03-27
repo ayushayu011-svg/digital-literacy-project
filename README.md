@@ -24,7 +24,7 @@ Created and updated profiles on GitHub, LinkedIn, and HackerRank to build a prof
 ### 🔹 Task 3: Platforms & Collaboration
 Completed a coding challenge on HackerRank and created a Google Form for awareness quiz.
 
-👉 **Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfud14xWB6J4RbOsMY0z-vxdw5ygNngkI1NiSyxTxll2-Q71Q/viewform?usp=dialog
+👉 **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSfud14xWB6J4RbOsMY0z-vxdw5ygNngkI1NiSyxTxll2-Q71Q/viewform?usp=dialog
 
 ### 🔹 Task 4: Email Etiquette
 Drafted professional emails and created a social media do’s and don’ts checklist.
