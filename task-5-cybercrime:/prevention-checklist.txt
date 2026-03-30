@@ -1,25 +1,30 @@
 Stay Safe Online – Prevention Checklist
 
-Do’s - Use strong and unique passwords for all accounts - Enable
-two-factor authentication (2FA) wherever possible - Verify website URLs
-before entering personal or banking details - Keep your devices and apps
-updated regularly - Use secure and trusted Wi-Fi networks only -
-Regularly check bank statements and transaction history - Install apps
-only from official sources (Play Store/App Store) - Immediately report
-suspicious activity on cybercrime.gov.in or call 1930
+Do’s 
+- Use strong and unique passwords for all accounts
+- Enable two-factor authentication (2FA) wherever possible 
+- Verify website URLs before entering personal or banking details 
+- Keep your devices and apps updated regularly 
+- Use secure and trusted Wi-Fi networks only 
+- Regularly check bank statements and transaction history 
+- Install apps only from official sources (Play Store/App Store) 
+- Immediately report suspicious activity on cybercrime.gov.in or call 1930
 
-Don’ts - Do not share OTP, PIN, or passwords with anyone - Do not click
-on unknown links or suspicious messages - Do not trust calls claiming to
-be from banks asking for details - Do not save sensitive information on
-public/shared devices - Do not use public Wi-Fi for financial
-transactions - Do not download attachments from unknown emails - Do not
-ignore unusual account activity or alerts - Do not respond to fake job
-offers or prize messages
+Don’ts 
+- Do not share OTP, PIN, or passwords with anyone 
+- Do not click on unknown links or suspicious messages 
+- Do not trust calls claiming to be from banks asking for details
+- Do not save sensitive information on public/shared devices 
+- Do not use public Wi-Fi for financial transactions 
+- Do not download attachments from unknown emails 
+- Do not ignore unusual account activity or alerts 
+- Do not respond to fake job offers or prize messages
 
-UPI / Financial Safety Tips - Always verify the receiver’s name before
-making payment - Never approve unknown UPI collect requests - Do not
-scan random QR codes for receiving money - Use official banking apps
-only for transactions
+UPI / Financial Safety Tips 
+- Always verify the receiver’s name before making payment 
+- Never approve unknown UPI collect requests 
+- Do not scan random QR codes for receiving money 
+- Use official banking apps only for transactions
 
 Report Cybercrime National Cyber Crime Portal: https://cybercrime.gov.in
 Helpline Number: 1930
