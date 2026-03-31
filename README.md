@@ -20,6 +20,7 @@ Created an infographic using Canva covering topics like safe internet practices,
 
 ### 🔹 Task 2: Digital Portfolio
 Created and updated profiles on GitHub, LinkedIn, and HackerRank to build a professional digital presence.
+
 🔗 *GitHub Profile README:*  https://github.com/ayushayu011-svg/ayush
 
 ### 🔹 Task 3: Platforms & Collaboration
